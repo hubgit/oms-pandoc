@@ -5,3 +5,4 @@ COPY . /app
 
 VOLUME ["/tmp"]
 CMD ["python3", "service.py"]
+
